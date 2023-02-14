@@ -20,5 +20,5 @@ return("("+this.capacidad+","+this.cantidad+")");
 
  public void metodoComunitario(){
  // Comentario incluido para pruebas
- System.out.println("Juan Carlos Vergara Ruz");
+ System.out.println("Juan Carlos Vergara Ruz - 2");
  }
