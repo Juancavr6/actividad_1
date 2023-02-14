@@ -13,7 +13,12 @@ public class Jarra { //atributos
  // 1
  // 2
  // 3
+}
+public String toString(){
+return("("+this.capacidad+","+this.cantidad+")");
+}
+
  public void metodoComunitario(){
  // Comentario incluido para pruebas
- System.out.println("Aqui escribimos todos");
+ System.out.println("Juan Carlos Vergara Ruz");
  }
